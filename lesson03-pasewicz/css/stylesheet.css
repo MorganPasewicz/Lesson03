@@ -22,6 +22,38 @@ html {
 *, *:before, *:after {
   box-sizing: inherit;
 }
+header h1 {
+  color: #373F51 ;
+  -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #373F51 
+  ;
+}
+header h2 {
+  color: #373F51 
+  ;
+  -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #373F51 
+  ;
+}
+footer h2 {
+  color: #373F51 
+  ;
+  -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #373F51 
+  ;
+}
+
+ h1 {
+  color: #373F51 
+  ;
+  -webkit-text-fill-color: white; /* Will override color (regardless of order) */
+  -webkit-text-stroke-width: 1px;
+  -webkit-text-stroke-color: #373F51 
+  ;
+}
 
 body {
   color: #1B1B1E;
